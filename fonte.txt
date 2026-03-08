@@ -1,0 +1,309 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LNTHN91EJ2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LNTHN91EJ2');
+</script>
+	
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Xanglass - </title>
+    <meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.xanglass.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.xanglass.com.br%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.xanglass.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.xanglass.com.br%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='xanglass-style-css' href='https://www.xanglass.com.br/wp-content/themes/xanglass/style.css?ver=1756242915' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.xanglass.com.br/wp-content/themes/xanglass/assets/js/slider.js?ver=6.9.1" id="slider-js-js"></script>
+<script type="text/javascript" src="https://www.xanglass.com.br/wp-content/themes/xanglass/assets/js/mobile-menu.js?ver=6.9.1" id="mobile-menu-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.xanglass.com.br/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.xanglass.com.br/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.xanglass.com.br/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.1" />
+<link rel="canonical" href="https://www.xanglass.com.br/" />
+<link rel='shortlink' href='https://www.xanglass.com.br/' />
+</head>
+
+<body class="home wp-singular page-template page-template-template-home page-template-template-home-php page page-id-7 wp-custom-logo wp-theme-xanglass">
+    
+<div id="page" class="site">
+
+    <header id="header">
+
+    <div class="wrapper-header">
+
+        
+<div class="site-branding">
+
+    <div class="wrapper-site-branding">
+                    <div class="site-logo"><a href="https://www.xanglass.com.br/" class="custom-logo-link" rel="home" aria-current="page"><img width="266" height="85" src="https://www.xanglass.com.br/wp-content/uploads/2023/05/logo-xanglass-white.png" class="custom-logo" alt="Xanglass" decoding="async" /></a></div>
+            </div>
+
+</div>        
+<div class="site-nav">
+
+    <div class="wrapper-site-nav">
+                    <nav id="site-navigation" class="primary-navigation">
+                <div class="mobile-menu">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line3"></div>
+                </div>
+                <div class="menu-menu-header-container"><ul id="menu-menu-header" class="menu"><li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://www.xanglass.com.br/vidro-temperado/">Vidro Temperado</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="https://www.xanglass.com.br/vidro-laminado/">Vidro Laminado</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://www.xanglass.com.br/espelhos/">Espelhos</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="https://www.xanglass.com.br/box/">Box</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://www.xanglass.com.br/servicos/">Serviços</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="https://www.xanglass.com.br/sobre-nos/">Sobre Nós</a></li>
+</ul></div>            </nav>
+            </div>
+
+</div>
+    </div>
+
+</header>
+    <div id="content" class="site-content">
+        <div id="primary" class="content-area">
+            <main id="main" class="site-main">
+    <section class="banner-video">
+    <div class="mobile-banner-video">
+        <div class="hero-text">
+            <h2 class="up-hero-text">EXCELÊNCIA E TRADIÇÃO</h2>
+            <h2 class="down-hero-text">EM VIDROS TEMPERADOS</h2>
+        </div>
+        <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/vidros-temperados-em-sp.png" alt="banner-video-temp">
+    </div>
+        <div class="wrapper-banner-video">
+            <img src="https://www.xanglass.com.br/wp-content/uploads/2023/06/banner-home.png" alt="banner-video-temp">
+        </div>
+</section>
+
+<section class="hero">
+
+    <div class="container">
+
+        <h1>Há mais de 20 anos aliando compromisso e tecnologia, prazos rigorosos e bom atendimento.</h1>
+
+        <p>Temos como parceiras as 3 principais indústrias de beneficiamento de vidros no Brasil, garantindo assim a qualidade e confiabilidade de nossos produtos.</p>
+
+        <div class="partners-logo">
+            <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/guardianglass.png" alt="guardian-glass-logo">
+            <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/cebrace-logo.png" alt="cebrace-logo">
+            <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/vivix.png" alt="vivix-logo">
+        </div>
+
+    </div>
+
+</section>
+
+<section class="slider">
+
+    <div class="wrapper-slider">
+
+        <h2 id="call-slider">NAVEGUE EM NOSSA LINHA DE PRODUTOS E SERVIÇOS</h2>
+
+        <div class="carrousel" id="carrousel">
+            <a href="box" class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2025/06/box.png" alt="box">
+                <span>BOX</span>
+            </a>
+            <a href="espelhos" class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/06/slide-espelho.png" alt="espelhos">
+                <span>ESPELHOS</span>
+            </a>
+            <a href="vidro-temperado" class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2025/06/temperado.png" alt="vidros temperados">
+                <span>VIDROS TEMPERADOS</span>
+            </a>
+            <a href="vidro-laminado" class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/06/vidro-laminado.png" alt="vidros laminados">
+                <span>VIDROS LAMINADOS</span>
+            </a>
+        </div>
+
+        <div class="wrapper-call-footer-slider">
+            <div class="call-slider">
+                <h2>VOCÊ É VIDRACEIRO?</h2><h3>ADICIONE O NOSSO WHATSAPP E RECEBA PROMOÇÕES EXCLUSIVAS!</h3>
+            </div>
+            <button id="add-whatsapp-button">
+                <a href="https://wa.me/5511943432510" target="_blank">clique para adicionar</a>
+            </button>
+        </div>
+
+    </div>
+
+    <div class="products-temp-page home">
+        <div class="up-row">
+            <div class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/xanglass-vidro-temperado.png" alt="vidro-temperado">
+                <h2>VIDRO TEMPERADO</h2>
+                <p>Fornecemos vidros temperados com capacidade para atender a altas demandas. Nosso parque industrial é equipado com maquinário de última geração e possuímos frota própria para entrega rápida e personalizada.</p>
+            </div>
+            <div class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/xanglass-vidro-laminado.png" alt="vidro-laminado">
+                <h2>VIDRO LAMINADO</h2>
+                <p>O vidro laminado pode ajudar na redução de ruído e bloquear até 99,9% dos raios UV do sol. Com uma camada intercalada especial entre cada lâmina, mantem o vidro quebrado no mesmo lugar em caso de acidentes.</p>
+            </div>
+        </div>
+        <div class="down-row">
+            <div class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/06/slide-espelho.png" alt="espelhos">
+                <h2>ESPELHOS</h2>
+                <p>Fornecemos espelhos cortados em várias formas, lapidados, bisotados, com furos e recortes. Trabalhamos com espelhos das empresas Guardian Glass e Cebrace, as duas maiores e melhores marcas nacionais em termos de vidros e espelhos.</p>
+            </div>
+            <div class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/xanglass-box.png" alt="box">
+                <h2>BOX</h2>
+                <p>Boxes cortados e temperados diretamente em nossa fábrica, embalados com os itens de cada kit e com fácil retirada em nossa entrega ou entrga com nossa equipe de logística.</p>
+            </div>
+        </div>
+         <div class="down-row">
+            <div class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2025/08/kitbox01.png" alt="espelhos">
+                <h2>KIT BOX</h2>
+                <p>Temos kits prontos para box temperado que facilitam a instalação e a manutenção para a sua vidraçaria. Fácil acabamento e com furo de dreno.</p>
+            </div>
+            <div class="wrapper-slide-image">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2025/08/kitbox-1.png" alt="box">
+                <h2>FERRAGENS</h2>
+                <p>Cromada, natural fosca, branca, preta e bronze. Diversos modelos à sua escolha de ferragens e puxadores com qualidade comprovada.</p>
+            </div>
+        </div>
+    </div>
+
+</section>    
+            </main>
+        </div>
+    </div>
+
+    
+<footer id="footer">
+
+    <div class="wrapper-footer">
+
+        <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/logo-xanglass.png" alt="xanglass-logo" id="footer-brand" />
+
+        
+<div class="wrapper-footer-tel">
+
+    <ul class="footer-tel">
+        <li class="footer-tel-single">
+            <h4>SETOR VIDROS</h4>
+            <div class="footer-tel-single-tel">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/06/phone.svg" alt="telefone" />
+                <p>(11) 2685-2510</p>
+            </div>
+        </li>
+        <li class="footer-tel-single">
+            <h4>SETOR ESPELHOS</h4>
+            <div class="footer-tel-single-tel">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/06/phone.svg" alt="telefone" />
+                <p>(11) 2506-7029</p>
+            </div>
+        </li>
+    </ul>
+
+</div>
+
+<div class="wrapper-footer-tel">
+
+    <ul class="footer-tel">
+        <li class="footer-tel-single">
+            <h4>WHATSAPP VIDROS</h4>
+            <a href="https://wa.me/5511943432510" target="_blank" class="footer-tel-single-tel whatsapp">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/whatsapp-blue.png" alt="whatsapp" />
+                <p>(11) 94343-2510</p>
+            </a>
+        </li>
+        <li class="footer-tel-single">
+            <h4>WHATSAPP ESPELHOS</h4>
+            <a href="https://wa.me/5511941917029" target="_blank" class="footer-tel-single-tel whatsapp">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/whatsapp-blue.png" alt="whatsapp" />
+                <p>(11) 94191-7029</p>
+            </a>
+        </li>
+        <li class="footer-tel-single">
+            <h4>WHATSAPP CONSTRUTORAS</h4>
+            <a href="https://wa.me/5511990185702" target="_blank" class="footer-tel-single-tel whatsapp">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/whatsapp-blue.png" alt="whatsapp" />
+                <p>(11) 99018-5702</p>
+            </a>
+        </li>
+    </ul>
+
+</div>
+
+<div class="wrapper-footer-info">
+
+    <ul class="footer-info">
+        <li class="footer-info-single">
+            <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/email-1.png" alt="email-icon" id="email-icon" />
+            <p>vendas6@xanglass.com.br</p>
+        </li>
+        <li class="footer-info-single">
+            <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/pin-1.png" alt="location-icon" id="location-icon" />
+            <p>Rua Maria Carlota, 489<br />São Paulo/SP</p>
+        </li>
+    </ul>
+
+</div>
+        <div class="social-media">
+            <a href="https://www.instagram.com/xanglasstemper/" target="_blank">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/instagram.png" alt="instagram" class="social-media-button" />
+            </a>
+            <a href="https://www.facebook.com/xanglassvidrostemperados" target="_blank">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/facebook.png" alt="facebook" class="social-media-button" />
+            </a>
+            <a href="https://www.linkedin.com/company/xanglass-temper" target="_blank">
+                <img src="https://www.xanglass.com.br/wp-content/uploads/2023/05/linkedin.png" alt="linkedin" class="social-media-button" />
+            </a>
+        </div>
+
+    </div>
+	
+	<div class="wrapper-copy-footer">
+
+        <p>
+			Copyright © Xanglass. Todos os direitos reservados. Criação: <a href="https://efdesign.com.br" target="_blank">EF/DESIGN</a>.
+		</p>
+
+    </div>
+
+</footer>
+</div>
+
+</body>
+</html>
